@@ -1,8 +1,8 @@
 ![banner](https://picsum.photos/800/250)
 
-#สมุดบันทีก
+# สมุดบันทีก
 
-สำหรับรายวิฃา 
+สำหรับรายวิฃา OOP
 
 ![download banner](./banner.jpg)
 
