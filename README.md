@@ -2,7 +2,7 @@
 
 #สมุดบันทีก
 
-สำหรับรายวิฃา OOP
+สำหรับรายวิฃา 
 
 ![download banner](./banner.jpg)
 
