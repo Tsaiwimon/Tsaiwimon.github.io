@@ -1,9 +1,9 @@
 ![banner](https://picsum.photos/800/250)
 
-# สมุดบันทีก
+# สมุดบันทึก
 
-สำหรับรายวิฃา OOP
+สำหรับรายวิชา OOP![https://github.com/Tsaiwimon/Tsaiwimon.github.io/edit/main/README.md]
 
 ![กระต่าย](https://github.com/Tsaiwimon/Tsaiwimon.github.io/assets/159878347/3e5d2cc0-1682-4839-9575-bf09fc2f708d)
 
-ศศิวิมล  กองพร
+ศศิวิมล กองพร
